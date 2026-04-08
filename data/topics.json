@@ -1,0 +1,92 @@
+{
+  "themes": [
+    {
+      "id": "society",
+      "shortLabel": "Society",
+      "label": "Aspects of German-speaking society",
+      "subtopics": [
+        {
+          "id": "family",
+          "label": "Familie im Wandel",
+          "keywords": ["familie", "partnerschaft", "ehe", "heirat", "scheidung", "eltern", "kinder", "alleinerziehend", "familienform", "haushalt"]
+        },
+        {
+          "id": "digital-world",
+          "label": "Die digitale Welt",
+          "keywords": ["internet", "soziale medien", "soziale netzwerke", "digitalisierung", "digital", "online", "plattform", "app", "smartphone", "ki", "datenschutz", "cyber", "algorithmus"]
+        },
+        {
+          "id": "youth-culture",
+          "label": "Jugendkultur",
+          "keywords": ["jugend", "jugendliche", "mode", "image", "musik", "fernsehen", "tv", "streaming", "popkultur", "festival", "trend", "influencer"]
+        }
+      ]
+    },
+    {
+      "id": "multiculturalism",
+      "shortLabel": "Multiculturalism",
+      "label": "Multiculturalism in German-speaking society",
+      "subtopics": [
+        {
+          "id": "immigration",
+          "label": "Einwanderung",
+          "keywords": ["migration", "einwanderung", "migrant", "migranten", "flucht", "flüchtling", "asyl", "zuwanderung", "zuwanderer", "visum", "grenze", "migrationspolitik"]
+        },
+        {
+          "id": "integration",
+          "label": "Integration",
+          "keywords": ["integration", "integrationskurs", "sprachkurs", "teilhabe", "inklusion", "eingliederung", "arbeitsmarkt", "migrantengruppe", "willkommenskultur", "hürden", "hindernisse"]
+        },
+        {
+          "id": "racism",
+          "label": "Rassismus",
+          "keywords": ["rassismus", "diskriminierung", "antisemitismus", "fremdenfeindlichkeit", "hass", "rechte gewalt", "hetze", "islamfeindlichkeit", "ausgrenzung", "antirassismus"]
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "shortLabel": "Culture",
+      "label": "Artistic culture in the German-speaking world",
+      "subtopics": [
+        {
+          "id": "festivals-traditions",
+          "label": "Feste und Traditionen",
+          "keywords": ["tradition", "brauch", "fest", "feier", "karneval", "weihnachtsmarkt", "oktoberfest", "fastnacht", "ostern", "region", "ritual"]
+        },
+        {
+          "id": "art-architecture",
+          "label": "Kunst und Architektur",
+          "keywords": ["kunst", "architektur", "museum", "ausstellung", "künstler", "architekt", "denkmal", "design", "baukunst", "galerie", "städtebau", "gebäude"]
+        },
+        {
+          "id": "berlin-culture",
+          "label": "Das Berliner Kulturleben damals und heute",
+          "keywords": ["berlin", "berliner", "theater", "museen in berlin", "musik in berlin", "hauptstadt", "clubszene", "geschichte berlins", "mauer", "ostberlin", "westberlin"]
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "shortLabel": "Politics",
+      "label": "Aspects of political life in the German-speaking world",
+      "subtopics": [
+        {
+          "id": "germany-eu",
+          "label": "Deutschland und die EU",
+          "keywords": ["eu", "europa", "europäische union", "eu-erweiterung", "brüssel", "europaparlament", "schengen", "binnenmarkt", "deutschland in europa"]
+        },
+        {
+          "id": "politics-youth",
+          "label": "Die Politik und die Jugend",
+          "keywords": ["jugendpolitik", "wahl", "wahlen", "wähler", "erstwähler", "politisches engagement", "protest", "demonstration", "aktivismus", "werte", "ideale", "jugendparlament"]
+        },
+        {
+          "id": "reunification",
+          "label": "Die Wiedervereinigung und ihre Folgen",
+          "keywords": ["wiedervereinigung", "ddr", "mauerfall", "ostdeutschland", "westdeutschland", "friedliche revolution", "bundesländer", "ost", "west", "einheit", "kultur und identität"]
+        }
+      ]
+    }
+  ]
+}
